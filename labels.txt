@@ -1,0 +1,8 @@
+0 Pero
+1 Kruh
+2 Stvorec
+3 Trojuholnik
+4 Hexagon
+5 Obdlznik
+6 Elipsa
+7 Neznáme
